@@ -1,2 +1,2 @@
 # FlaskSqliteViewer
-A simple flask based SQL viwer and Editor
+A simple flask based SQL viewer and Editor
